@@ -1,6 +1,6 @@
 {% set name = "dhall-python" %}
-{% set version = "0.1.14" %}
-{% set sha256 = "d6b95f03d25c80a39267891b6401be6af411e5eac44591a1654267a96533c06c" %}
+{% set version = "0.1.15" %}
+{% set sha256 = "f2035d053a18cbcc943d614333cf2f719e225cd61555e6ec2c89f1c87480c923" %}
 
 package:
   name: {{ name|lower }}
@@ -43,7 +43,7 @@ test:
 
 about:
   home: https://github.com/s-zeng/dhall-python
-  summary: 'Python bindings for Dhall, a functional configuration language'
+  summary: Python bindings for Dhall, a functional configuration language
   description: |
     Dhall-python contains the Python bindings for Dhall, implemented in Rust.
   license: MIT AND OTHER
