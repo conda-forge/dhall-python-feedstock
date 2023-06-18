@@ -1,11 +1,11 @@
-About dhall-python
-==================
+About dhall-python-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dhall-python-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/s-zeng/dhall-python
 
 Package license: MIT AND OTHER
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dhall-python-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python bindings for Dhall, a functional configuration language
 
