@@ -15,7 +15,7 @@ build:
     - cargo-bundle-licenses --format yaml --output THIRDPARTY.yml
     - maturin build --release -i {{ PYTHON }}
     - {{ PYTHON }} -m pip install . -vv
-  number: 1
+  number: 2
 
 requirements:
   build:
